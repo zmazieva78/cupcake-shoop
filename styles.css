@@ -4,9 +4,8 @@ body{
 li {
   font-family: fantasy;
   font-size: 16px;
-  font-weight: 400;
   display: inline;
-  color: brown;
+  color: #D3681E;
 }
 img {
   width: 250px;
@@ -15,9 +14,20 @@ img {
 .gfree {
   color: mustard;
   font-family: serif;
-  font-size: 26px;
+  font-size: 24px;
+  color: red;
 }
 h1 {
-  font-size: 45px;
-  color: #E23D7F;
+  font-size: 55px;
+  color: #B71ED3;
+}
+h2 {
+  font-size: 32px;
+  color: #941FAA;
+}
+.reg {
+  color: mustard;
+  font-family: serif;
+  font-size: 24px;
+  color: brown;
 }
