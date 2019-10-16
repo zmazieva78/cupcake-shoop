@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+}
+li {
+  font-family: fantasy;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline;
+  color: brown;
+}
+img {
+  width: 250px;
+  height: 250px;
+}
+.gfree {
+  color: mustard;
+  font-family: serif;
+  font-size: 26px;
+}
+h1 {
+  font-size: 45px;
+  color: #E23D7F;
+}
